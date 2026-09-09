@@ -1,0 +1,1 @@
+unfortunately, I lost .env file so I need to retrieve connection string from mongoatlas in case I need to connect with cluster via gitbash terminal
